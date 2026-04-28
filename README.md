@@ -1,2 +1,34 @@
-# toolsselectiondynamicpage
-A responsive webpage showcasing features of a visual drag-and-drop editor using HTML, CSS, and Bootstrap. It highlights design flexibility, animations, and layout structuring with a clean UI. Built as a static project to demonstrate front-end development skills.
+# 🛠️ Tool Selection Webpage
+
+This is a **responsive static webpage** built using HTML, CSS, and Bootstrap.  
+It showcases features of a visual drag-and-drop editor with a clean and modern UI design.
+
+
+## 🚀 Features
+
+- 📱 Fully responsive layout using Bootstrap grid system
+- 🎨 Clean and simple UI design
+- 🖱️ Drag-and-drop editor concept representation
+- ✨ Section for animations and effects
+- 📷 Image and content alignment using flexbox
+
+
+## 🧰 Technologies Used
+
+- HTML5  
+- CSS3  
+- Bootstrap 4  
+
+
+## 📂 Project Type
+
+- Static Website (No backend functionality)
+- UI-focused project
+
+
+
+## 📌 Note
+
+- This project is only for **UI demonstration purposes**
+- Buttons and interactions are **non-functional**
+
